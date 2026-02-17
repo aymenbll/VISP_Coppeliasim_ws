@@ -391,3 +391,5 @@ source install/setup.bash
 # Run the controller
 ros2 run visp_ros tutorial-franka-coppeliasim-pbvs-apriltag --plot --enable-coppeliasim-sync-mode
 ```
+
+##For Any Doubts Check gemini .biboy conversation "Fix CoppeliaSim ROS2 Build Error"
